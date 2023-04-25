@@ -1,3 +1,3 @@
 # exploring-AI
 
-Basic Python exercises
+Basic Python Exercises
